@@ -22,3 +22,12 @@ body{
 .Title{
     float: right;
 }
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover{
+    color: blue;
+}
